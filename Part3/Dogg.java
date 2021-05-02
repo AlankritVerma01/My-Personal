@@ -1,3 +1,4 @@
+package Part3;
 public class Dogg 
 {
     private String name;

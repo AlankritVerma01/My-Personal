@@ -7,6 +7,7 @@
 /**
  * CalculatorAdv
  */
+package Part3;
 public class CalculatorAdv {
     public void calcAverage(int num1 , double num2) {
         double average = (num1 + num2 ) / 2;

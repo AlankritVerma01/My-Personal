@@ -1,3 +1,4 @@
+package Part3;
 public class Doggtester 
     {
         public static void main(String[] args) {

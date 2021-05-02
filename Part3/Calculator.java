@@ -1,4 +1,4 @@
-
+package Part3;
 public class Calculator {
     public void calcAverage(int num1, double num2){
         double average = (num1 + num2)/2;

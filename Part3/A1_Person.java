@@ -1,5 +1,7 @@
+package Part3;
 public class A1_Person 
 {
+    
         private String name; // creating the class attributes
         private int age ;
         private boolean isAdult;

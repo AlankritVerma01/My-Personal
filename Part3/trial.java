@@ -1,3 +1,4 @@
+package Part3;
 import java.util.Scanner; // importing the scaner to get the input from the user
 
 class trial
