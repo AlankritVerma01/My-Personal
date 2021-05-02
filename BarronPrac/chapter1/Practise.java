@@ -9,7 +9,8 @@ package BarronPrac.chapter1;
 /**
  * Practise
  */
-public class Practise {
+public class Practise 
+{
 
     
 }
