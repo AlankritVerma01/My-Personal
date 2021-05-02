@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Part3", "BarronPrac",
+        "chapter1", "chapter2",
         ""
     ]
 }
