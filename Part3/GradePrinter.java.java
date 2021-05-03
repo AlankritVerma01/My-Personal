@@ -4,6 +4,7 @@
  * Purpose : To check the grade of a chile
  * Comments : 
  */
+package Part3;
 class GradePrinter
 {
     public void printInfo(String name, double grade) {
