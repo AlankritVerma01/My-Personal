@@ -4,7 +4,7 @@
  * Purpose : This is used to calculate the grade of a student
  * Comments : just the else if statement is used
  */
-package Part03;
+package Part4;
 
 import java.util.*;
 
