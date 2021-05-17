@@ -1,3 +1,4 @@
+package FRQs;
 public class ClubMembers
 {
     public void addMembers(String [] names, int gradYear)
@@ -22,6 +23,6 @@ public class ClubMembers
             else 
             i++;
         }
-        return goodStanding
+        return goodStanding;
     }
 }

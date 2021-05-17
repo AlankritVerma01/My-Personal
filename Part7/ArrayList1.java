@@ -20,7 +20,7 @@ public class ArrayList1 {
     }
 
     /** int size ( ) -- Retruns the numbers of elements in the list.
-     * boolena add(E obj) -- Appends onj to the end of the list , retruns true
+     * boolean add(E obj) -- Appends onj to the end of the list , retruns true
      * void add(int index , E obj) -- inserts onj at position inddex(0<== index <= size), 
      * --moving the elements at posiion index and higer to right (adds 1 to their indices) adds 1 to the size
      * E get(int index) -- Returns the element at position index in the list
