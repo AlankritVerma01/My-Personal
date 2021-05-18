@@ -1,0 +1,47 @@
+a)
+    public static int[] getColumn(int [][] arr2d , int c)
+    {
+        int [] result = new int[arr2D.length];
+        for( int col = 0 ; col < arr2d[0].length; col++)
+        {
+            for ( int row = 0 ; row < arr2d.length ; row++)
+            {
+                if(row == c)
+                {
+                    result[row] = arr[row][col];
+                }
+            }
+        }
+        return result;
+    }
+
+b)
+    public static boolean isLatin(int [] [] square)
+    {
+        if(!(square.length==square[0].length))
+        {
+            return false;
+        }
+        for ( int col = 0 ; col < square[0].length ; col++)
+    }
+-------------------------------------------------------------
+    if(containsDuplicates(square[0]))
+    {
+        return false;
+    }
+
+    for(int r = 1; r < square.length ; r++)
+    {
+        if(!hasAllValues(square[0],square[r])
+        {
+            return false;
+        }
+    }
+    for(int c = 0 ; c < square[0].length; c++)
+    {
+        if(!hasAllValues(square[0],getColumn(square,c)))
+        {
+            return false;
+        }
+    }
+    return true;
